@@ -1,0 +1,21 @@
+{
+  "type": "scaffold",
+  "body": {
+    "type": "column",
+    "mainAxisAlignment": "spaceAround",
+    "crossAxisAlignment": "center",
+    "children": [
+      {
+        "type": "container",
+        "alignment": "center",
+        "child": {
+          "type": "text",
+          "data" : "Ye Lwin Oo",
+          "style": {
+            "fontSize": 25
+          }
+        }
+      }
+    ]
+  }
+}
